@@ -137,7 +137,7 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 - Notify users of significant changes through an in-app notification or update notes
 - Continue to protect your data according to these principles
 
-The latest version of this Privacy Policy will always be available at [INSERT YOUR HOSTED PRIVACY POLICY URL HERE].
+The latest version of this Privacy Policy will always be available at <https://github.com/matse85/privacy_policies/blob/master/warranto_private_policy.md>
 
 ---
 
@@ -156,7 +156,7 @@ Depending on your jurisdiction, you may have rights regarding your data, includi
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
 
-**Email:** [INSERT YOUR CONTACT EMAIL HERE]
+**Email:** <matthias.seumel@gmx.de>
 
 **Response Time:** We aim to respond to all privacy inquiries within 7 business days.
 
@@ -173,55 +173,3 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 - ✅ Only anonymized crash data sent to Sentry
 - ✅ No advertising or tracking
 - ✅ Open source database format (SQLite)
-
----
-
-## Hosting Instructions
-
-### Before Play Store Submission
-
-Google Play requires your privacy policy to be hosted at a **publicly accessible URL**. Here are your hosting options:
-
-#### Option 1: GitHub Pages (Recommended - Free)
-
-1. Create a new repository on GitHub (e.g., `warranto-privacy`)
-2. Upload this `PRIVACY_POLICY.md` file
-3. Enable GitHub Pages in repository settings
-4. Your privacy policy will be available at: `https://yourusername.github.io/warranto-privacy/`
-5. Use this URL in Google Play Console
-
-#### Option 2: Personal Website
-
-1. Convert this markdown to HTML
-2. Upload to your personal website or domain
-3. Ensure it's accessible at a permanent URL (e.g., `https://yourwebsite.com/warranto/privacy`)
-4. Use this URL in Google Play Console
-
-#### Option 3: Free Hosting Services
-
-- **GitLab Pages:** Similar to GitHub Pages
-- **Netlify:** Free tier with custom domain support
-- **Vercel:** Free tier with automatic markdown rendering
-
-#### Option 4: WordPress or Blog
-
-1. Create a new page on your WordPress site
-2. Copy the content of this privacy policy
-3. Publish at a permanent URL
-4. Use this URL in Google Play Console
-
-### Important Notes
-
-- **Do not use temporary hosting** like Pastebin or Google Docs - Google Play requires a stable, permanent URL
-- **Keep it updated:** When you update the app's privacy practices, update the hosted policy too
-- **Replace placeholders:** Before hosting, replace `[INSERT YOUR CONTACT EMAIL HERE]` and `[INSERT YOUR HOSTED PRIVACY POLICY URL HERE]` with actual values
-- **Add to Play Store:** Once hosted, add the URL in Google Play Console → Store presence → Store settings → Privacy policy
-
----
-
-**This privacy policy template is ready to use. Remember to:**
-
-1. Replace `[INSERT YOUR CONTACT EMAIL HERE]` with your actual contact email
-2. Host this policy at a public URL
-3. Update `[INSERT YOUR HOSTED PRIVACY POLICY URL HERE]` with the actual hosted URL
-4. Add the hosted URL to Google Play Console before submitting your app
