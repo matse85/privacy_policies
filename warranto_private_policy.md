@@ -156,7 +156,7 @@ Depending on your jurisdiction, you may have rights regarding your data, includi
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
 
-**Email:** <matthias.seumel@gmx.de>
+**Email:** <mailwaste@gmx.net>
 
 **Response Time:** We aim to respond to all privacy inquiries within 7 business days.
 
